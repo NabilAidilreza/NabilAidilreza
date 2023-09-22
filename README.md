@@ -19,7 +19,7 @@ if __name__ == '__main__':
 </p>
 
 
-<h2> Featured Projects </h2>
+<h2> Featured </h2>
 
 <a href="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_Timetable_Generator_Python&theme=react" />
@@ -29,6 +29,16 @@ if __name__ == '__main__':
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
 </a>
 
+<h2> Projects </h2>
+Some of the projects I made over the years
+<h3>test</h3>
+<ul>hello</ul>
+<h3>Games</h3>
+<ul>hello</ul>
+<h3>test</h3>
+<ul>hello</ul>
+<h3>test</h3>
+<ul>hello</ul>
 
 <h2> Tech I've used </h2>
 

@@ -34,8 +34,8 @@ Some of the projects I made over the years
 <h3>Mini Programs</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
-        <li><a href ="">Shopee Scraper</a></li>
-        <li><a href ="">Server<->Client Helper</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">Server<->Client Helper</a></li>
     </ul>
 <h3>Games</h3>
     <ul>

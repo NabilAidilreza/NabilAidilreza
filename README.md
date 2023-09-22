@@ -14,8 +14,8 @@ if __name__ == '__main__':
     me = WelcomePage()
 ```
 <p align= "center">
-  <img  display="inline-block" src="https://github-readme-stats.vercel.app/api?username=nabilaidilreza&theme=react&show_icons=true&include_all_commits=true" />
-  <img  display="inline-block" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />
+  <img  height= "150" src="https://github-readme-stats.vercel.app/api?username=nabilaidilreza&theme=react&show_icons=true&include_all_commits=true" />
+  <img  height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />
 </p>
 
 

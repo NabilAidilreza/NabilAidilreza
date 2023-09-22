@@ -31,14 +31,27 @@ if __name__ == '__main__':
 
 <h2> Projects </h2>
 Some of the projects I made over the years
-<h3>test</h3>
-<ul>hello</ul>
+<h3>Mini Programs</h3>
+    <ul>
+        <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
+    </ul>
 <h3>Games</h3>
-<ul>hello</ul>
-<h3>test</h3>
-<ul>hello</ul>
-<h3>test</h3>
-<ul>hello</ul>
+    <ul>
+        <li><a href ="https://github.com/NabilAidilreza/pygames">Pygame Examples</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/spacesquadrons">RTS Game</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ww1_pixel_sim">Pixel WW1 Sim</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/2D_platformer">2D Platformer</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">A*STAR Pathfinding Implementation</a></li>
+    </ul>
+<h3>Websites</h3>
+    <ul>
+        <li><a href ="https://github.com/NabilAidilreza/fast_food_website">JC final project</a></li>
+    </ul>
+<h3>Others</h3>
+    <ul>
+        <li><a href ="https://github.com/NabilAidilreza/MLDA">NTU MLDA</a></li>
+        <li><a href =""></a></li>
+    </ul>
 
 <h2> Tech I've used </h2>
 

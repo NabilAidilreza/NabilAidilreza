@@ -18,6 +18,16 @@ if __name__ == '__main__':
   <img  height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />
 </p>
 
+<h2> Featured Projects </h2>
+
+<a href="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_Timetable_Generator_Python&theme=react" />
+</a>
+
+<a href="https://github.com/NabilAidilreza/researchcompiler">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
+</a>
+
 
 <h2> Tech I've used </h2>
 
@@ -63,13 +73,5 @@ if __name__ == '__main__':
   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
   ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 
-<h2> Featured Projects </h2>
 
-<a href="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_Timetable_Generator_Python&theme=react" />
-</a>
-
-<a href="https://github.com/NabilAidilreza/researchcompiler">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
-</a>
 

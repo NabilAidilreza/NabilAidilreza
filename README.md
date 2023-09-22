@@ -18,6 +18,8 @@ if __name__ == '__main__':
   <img  height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />
 </p>
 
+<br>
+
 <h2> Featured Projects </h2>
 
 <a href="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">
@@ -28,6 +30,7 @@ if __name__ == '__main__':
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
 </a>
 
+<br>
 
 <h2> Tech I've used </h2>
 

@@ -50,7 +50,7 @@ Some of the projects I made over the years
 <h3>Others</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/MLDA">NTU MLDA</a></li>
-        <li><a href =""></a></li>
+        <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot</a></li>
     </ul>
 
 <h2> Tech I've used </h2>

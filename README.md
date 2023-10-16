@@ -43,7 +43,7 @@ Some of the projects I made over the years
         <li><a href ="https://github.com/NabilAidilreza/spacesquadrons">RTS Game</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ww1_pixel_sim">Pixel WW1 Sim</a></li>
         <li><a href ="https://github.com/NabilAidilreza/2D_platformer">2D Platformer</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">A*STAR Pathfinding Implementation</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">A*STAR Pathfinding (Unity Engine)</a></li>
     </ul>
 <h3>Websites</h3>
     <ul>

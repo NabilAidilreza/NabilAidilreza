@@ -1,4 +1,3 @@
-<h2>Welcome</h2>
 <p>Hello friends and welcome. I had an interest in coding since I was 15 years old and have been pursuing the IT field. Feel free to look around!!!</p>
 <p align= "center">
   <img  height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />

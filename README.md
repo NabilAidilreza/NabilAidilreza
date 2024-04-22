@@ -21,6 +21,7 @@ Here are some of the projects I made over the years...
         <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
         <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">GUI Assistant (Server Client Model)</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot (Virtual Pet Experiment)</a></li>
     </ul>
 <h3>Games 🎮</h3>
     <ul>
@@ -33,10 +34,6 @@ Here are some of the projects I made over the years...
 <h3>Websites 🌐</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/fast_food_website">Full Stack Web Project (School)</a></li>
-    </ul>
-<h3>Others</h3>
-    <ul>
-        <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot (Virtual Pet Experiment)</a></li>
     </ul>
 
 <h2> Tech I've used </h2>

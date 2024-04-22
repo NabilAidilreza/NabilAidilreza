@@ -16,13 +16,13 @@
 
 <h2> Projects </h2>
 Here are some of the projects I made over the years...
-<h3>Mini Programs</h3>
+<h3>Mini Programs 📂</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
         <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">GUI Assistant (Server Client Model)</a></li>
     </ul>
-<h3>Games</h3>
+<h3>Games 🎮</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/pygames">Pygame Examples</a></li>
         <li><a href ="https://github.com/NabilAidilreza/spacesquadrons">SpaceSquadrons (RTS Game)</a></li>
@@ -30,7 +30,7 @@ Here are some of the projects I made over the years...
         <li><a href ="https://github.com/NabilAidilreza/2D_platformer">Cavern Heroes (2D Platformer)</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">Pixel_CTF (A*STAR Pathfinding Experiment)</a></li>
     </ul>
-<h3>Websites</h3>
+<h3>Websites 🌐</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/fast_food_website">Full Stack Web Project (School)</a></li>
     </ul>

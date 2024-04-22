@@ -20,24 +20,23 @@ Here are some of the projects I made over the years...
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">Server<->Client Helper</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">GUI Assistant (Server Client Model)</a></li>
     </ul>
 <h3>Games</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/pygames">Pygame Examples</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/spacesquadrons">RTS Game</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/ww1_pixel_sim">Pixel WW1 Sim</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/2D_platformer">2D Platformer</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">A*STAR Pathfinding (Unity Engine)</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/spacesquadrons">SpaceSquadrons (RTS Game)</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ww1_pixel_sim">Pixel WW1 Simulator</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/2D_platformer">Cavern Heroes (2D Platformer)</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ctf_pixel_sim">Pixel_CTF (A*STAR Pathfinding Experiment)</a></li>
     </ul>
 <h3>Websites</h3>
     <ul>
-        <li><a href ="https://github.com/NabilAidilreza/fast_food_website">YIJC final project</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/fast_food_website">Full Stack Web Project (School)</a></li>
     </ul>
 <h3>Others</h3>
     <ul>
-        <li><a href ="https://github.com/NabilAidilreza/MLDA">NTU MLDA</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot (Virtual Pet Experiment)</a></li>
     </ul>
 
 <h2> Tech I've used </h2>

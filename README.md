@@ -1,18 +1,5 @@
-```python
-class WelcomePage():
-    
-  def __init__(self):
-    self.name = "Nabil"
-    self.username = "Camk"
-    self.location = "Singapore"
-    self.message = "Welcome to my GitHub page!!!"
-
-  def __str__(self):
-    return self.message
-
-if __name__ == '__main__':
-    me = WelcomePage()
-```
+<h2>Welcome</h2>
+<p>Hello friends and welcome. I had an interest in coding since I was 15 years old and have been pursuing the IT field. Feel free to look around!!!</p>
 <p align= "center">
   <img  height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaidilreza&theme=react&layout=compact" />
 </p>
@@ -29,7 +16,7 @@ if __name__ == '__main__':
 </a>
 
 <h2> Projects </h2>
-Some of the projects I made over the years
+Here are some of the projects I made over the years...
 <h3>Mini Programs</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
@@ -46,7 +33,7 @@ Some of the projects I made over the years
     </ul>
 <h3>Websites</h3>
     <ul>
-        <li><a href ="https://github.com/NabilAidilreza/fast_food_website">JC final project</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/fast_food_website">YIJC final project</a></li>
     </ul>
 <h3>Others</h3>
     <ul>

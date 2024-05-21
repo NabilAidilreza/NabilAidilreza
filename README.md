@@ -37,7 +37,7 @@ Here are some of the projects I made over the years...
     </ul>
 <h3>Tools 🛠️</h3>
 <ul>
-  <li><a href="https://github.com/NabilAidilreza/CDDC-2024-TOOLKIT"></a></li>
+  <li><a href="https://github.com/NabilAidilreza/CDDC-2024-TOOLKIT">CaptureTheFlag Jeopardy Toolkit</a></li>
 </ul>
 <h2> Tech I've used </h2>
 

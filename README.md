@@ -10,6 +10,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_Timetable_Generator_Python&theme=react" />
 </a>
 
+<a href="https://github.com/NabilAidilreza/CDDC-2024-TOOLKIT">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CDDC-2024-TOOLKIT&theme=react" />
+</a>
+
+
 <a href="https://github.com/NabilAidilreza/researchcompiler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
 </a>

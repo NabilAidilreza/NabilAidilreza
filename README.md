@@ -40,7 +40,7 @@ Here are some of the projects I made over the years...
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/fast_food_website">Full Stack Web Project (School)</a></li>
     </ul>
-<h3>Tools 🛠️</h3>
+<h3>Competitions 🏆</h3>
 <ul>
   <li><a href="https://github.com/NabilAidilreza/CDDC-2024-TOOLKIT">Jeopardy CTF Toolkit</a></li>
 </ul>

@@ -42,7 +42,7 @@ Here are some of the projects I made over the years...
     </ul>
 <h3>Competitions 🏆</h3>
 <ul>
-  <li><a href="https://github.com/NabilAidilreza/CDDC-2024-Archive">Jeopardy CTF Toolkit</a></li>
+  <li><a href="https://github.com/NabilAidilreza/CDDC-2024-Archive">CDDC 2024 Archive</a></li>
 </ul>
 <h2> Tech I've used </h2>
 

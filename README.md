@@ -6,8 +6,8 @@
 
 <h2> Featured </h2>
 
-<a href="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_Timetable_Generator_Python&theme=react" />
+<a href="https://github.com/NabilAidilreza/NTU_STARS_Project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_STARS_Project&theme=react" />
 </a>
 
 <a href="https://github.com/NabilAidilreza/CDDC-2024-TOOLKIT">
@@ -23,7 +23,7 @@
 Here are some of the projects I made over the years...
 <h3>Mini Programs 📂</h3>
     <ul>
-        <li><a href ="https://github.com/NabilAidilreza/NTU_Timetable_Generator_Python">NTU Timetable Generator</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/NTU_STARS_Project">NTU STARS Project</a></li>
         <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
         <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">GUI Assistant (Server Client Model)</a></li>
         <li><a href ="https://github.com/NabilAidilreza/desktop_bot">Mini Desktop Bot (Virtual Pet Experiment)</a></li>

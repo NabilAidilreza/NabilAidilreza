@@ -13,9 +13,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CDDC-2024-TOOLKIT&theme=react" />
 </a>
 
-
 <a href="https://github.com/NabilAidilreza/researchcompiler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
+</a>
+
+<a href="https://github.com/NabilAidilreza/ctf_pixel_sim">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=ctf_pixel_sim&theme=react" />
 </a>
 
 <h2> Projects </h2>

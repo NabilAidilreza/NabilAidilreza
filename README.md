@@ -1,5 +1,9 @@
 <h2> Featured </h2>
 
+<a href="https://github.com/NabilAidilreza/NTU_STARS_Project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_STARS_Project&theme=react" />
+</a>
+
 <a href="https://github.com/NabilAidilreza/CTF_Basics">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CTF_Basics&theme=react" />
 </a>

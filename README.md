@@ -4,10 +4,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=NTU_STARS_Project&theme=react" />
 </a>
 
-<a href="https://github.com/NabilAidilreza/CTF_Basics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CTF_Basics&theme=react" />
-</a>
-
 <a href="https://github.com/NabilAidilreza/researchcompiler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
 </a>

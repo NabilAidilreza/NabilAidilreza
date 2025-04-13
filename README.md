@@ -4,8 +4,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=STARScraper&theme=react" />
 </a>
 
-<a href="https://github.com/NabilAidilreza/CTF_Basics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CTFSwissAK&theme=react" />
+<a href="https://github.com/NabilAidilreza/CyberKnife">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CyberKnife&theme=react" />
 </a>
 
 <a href="https://github.com/NabilAidilreza/researchcompiler">

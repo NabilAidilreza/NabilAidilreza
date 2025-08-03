@@ -38,6 +38,7 @@
     </ul>
 <h3>Competitions 🏆</h3>
 <ul>
+  <li><a href="https://github.com/NabilAidilreza/CTF_Writeups">CDDC 2025 Writeups</a></li>
   <li><a href="https://github.com/NabilAidilreza/CDDC-2024-Archive">CDDC 2024 Archive</a></li>
 </ul>
 <h2> Tech I've used </h2>

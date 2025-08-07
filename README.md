@@ -8,8 +8,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CyberKnife&theme=react" />
 </a>
 
-<a href="https://github.com/NabilAidilreza/researchcompiler">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=researchcompiler&theme=react" />
+<a href="https://github.com/NabilAidilreza/ani-themes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=ani-themes&theme=react" />
 </a>
 
 <a href="https://github.com/NabilAidilreza/ctf_pixel_sim">

@@ -1,21 +1,3 @@
-<h2> Featured </h2>
-
-<a href="https://github.com/NabilAidilreza/NTU_STARS_Project">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=STARScraper&theme=react" />
-</a>
-
-<a href="https://github.com/NabilAidilreza/CyberKnife">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=CyberKnife&theme=react" />
-</a>
-
-<a href="https://github.com/NabilAidilreza/ani-themes">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=ani-themes&theme=react" />
-</a>
-
-<a href="https://github.com/NabilAidilreza/ctf_pixel_sim">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabilaidilreza&repo=ctf_pixel_sim&theme=react" />
-</a>
-
 <h2> Projects </h2>
 <h3>Mini Programs 📂</h3>
     <ul>
@@ -46,10 +28,10 @@
 
   #### Programming Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
   #### IDEs
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

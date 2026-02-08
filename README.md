@@ -2,10 +2,10 @@
 <h3>Mini Programs 📂</h3>
     <ul>
         <li><a href ="https://github.com/NabilAidilreza/STARScraper">NTU STARS Project</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/ani-themes">Anime Openings CLI Program</a></li>
         <li><a href ="https://github.com/NabilAidilreza/CTFSwissAK">CyberKnife (CTF Toolkit)</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/ShopeeScraper">Shopee Scraper</a></li>
-        <li><a href ="https://github.com/NabilAidilreza/GUI_Assistant">GUI Assistant (Server Client Model)</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/ani-themes">ani-themes</a></li>
+        <li><a href ="https://github.com/NabilAidilreza/intra-feed">intra-feed</a></li>
+        
     </ul>
 <h3>Games 🎮</h3>
     <ul>
